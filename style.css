@@ -1,0 +1,19 @@
+.bg{
+	background-color: green;
+}
+
+.filter{
+	background-color: rgba(25,98,40,0.3);
+}
+.div .img{
+	height: 50px;
+	width: 50px;
+}
+
+.card-body {
+	margin: 0px 15px;
+}
+
+.card-order{
+	flex-wrap: wrap;
+}
